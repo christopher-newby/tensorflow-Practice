@@ -1,2 +1,3 @@
 # tensorflow-Practice
-Practicing with a MLP in tensorflow
+Practicing with a MLP in tensorflow.
+Uses python.
